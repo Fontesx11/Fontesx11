@@ -15,7 +15,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-![snake gif](https://github.com/Fontesx11/Fontesx11/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 - 🌱 I’m currently learning Java
