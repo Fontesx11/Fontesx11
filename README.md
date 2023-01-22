@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Fontesx11"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fontesx11&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontesx11&layout=default&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fontesx11&show_icons=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontesx11&layout=default&count_private=true&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
