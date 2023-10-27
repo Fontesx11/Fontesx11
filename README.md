@@ -1,4 +1,4 @@
-### Ola sou Diogo Fontes
+### Hi, I'm Diogo Fontes
 
 
 <div style="display: inline_block"><br>
